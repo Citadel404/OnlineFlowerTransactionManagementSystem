@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/src/main/webapp/admin/node_modules/.store
+/src/test/
