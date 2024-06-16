@@ -1,5 +1,5 @@
 
-var projectName = '网上鲜花交易平台';
+var projectName = '昆明网上鲜花交易平台';
 /**
  * 轮播图配置
  */
