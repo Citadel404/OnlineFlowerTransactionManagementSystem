@@ -1,4 +1,6 @@
 # Project exclude paths
+/.eclipse
+/.idea
 /target/
 /src/main/webapp/admin/node_modules/.store
 /src/test/
