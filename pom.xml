@@ -242,7 +242,7 @@
 
 	<build>
 	<!-- 项目访问名称 -->
-		<finalName>bishe</finalName>
+		<finalName>flower</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
