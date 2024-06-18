@@ -1,10 +1,10 @@
 const base = {
     get() {
                 return {
-            url : "http://localhost:8080/bishe/",
-            name: "bishe",
+            url : "http://localhost:8080/flower/",
+            name: "flower",
             // 退出到首页链接
-            indexUrl: 'http://localhost:8080/bishe/front/index.html'
+            indexUrl: 'http://localhost:8080/flower/front/index.html'
         };
             },
     getProjectName(){
