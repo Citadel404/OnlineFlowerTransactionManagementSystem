@@ -9,7 +9,7 @@ const base = {
             },
     getProjectName(){
         return {
-            projectName: "网上鲜花交易平台"
+            projectName: "昆明网上鲜花交易平台"
         } 
     }
 }
