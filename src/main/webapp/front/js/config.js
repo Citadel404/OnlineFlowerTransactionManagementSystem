@@ -66,7 +66,7 @@ var indexNav = [
 },
 ]
 
-var adminurl =  "http://localhost:8080/bishe/admin/dist/index.html";
+var adminurl =  "http://localhost:8080/flower/admin/dist/index.html";
 
 var cartFlag = false
 
