@@ -1,6 +1,6 @@
 ### **Online Flower Transaction Management System**
 
-- **这是一个基于SSM整合框架（Spring+SpringMVC+MyBatisPlus）以及Vue2、BootStrap、JQuery、LayUI等前端框架的网上鲜花交易平台的项目**
+- **这是一个基于SSM整合框架（Spring+SpringMVC+MyBatisPlus）以及VueJS、BootStrap、JQuery、LayUI等前端框架的网上鲜花交易平台的项目**
 - 该分支Master为项目的源代码。如有任何问题，可以提交issue。欢迎各位Coder友好交流。
 
 _**Notice注意事项**_
