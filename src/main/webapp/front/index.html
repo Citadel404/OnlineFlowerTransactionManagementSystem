@@ -167,7 +167,7 @@
 						<li v-for="(item,index) in indexNav" v-bind:key="index"><a :href="'javascript:navPage(\''+item.url+'\')'" class="menumain" style="cursor: pointer;"><i v-if="false" class="layui-icon" :class="iconArr[index]"></i>{{item.name}}</a></li>
 						<li><a href="javascript:jieshaoPage();" class="menumain"><i v-if="false" class="layui-icon layui-icon-username"></i>鲜花介绍</a></li>
 						<li><a href="javascript:centerPage();" class="menumain"><i v-if="false" class="layui-icon layui-icon-username"></i>个人中心</a></li>
-						<li><a :href="adminurl" target="_blank" class="menumain" style="cursor: pointer;"><i v-if="false" class="layui-icon layui-icon-link"></i>后台管理</a></li>
+						<li><a :href="http://localhost:8080/flower/admin/dist/index.html" target="_blank" class="menumain" style="cursor: pointer;"><i v-if="false" class="layui-icon layui-icon-link"></i>后台管理</a></li>
 						<li v-if="cartFlag"><a href="javascript:navPage('./pages/shop-cart/list.html')" class="menumain"><i v-if="false" class="layui-icon">&#xe657;</i>购物车</a></li>
 						<li v-if="chatFlag"><a href="javascript:chatTap()" class="menumain"><i v-if="false" class="layui-icon">&#xe677;</i>在线客服</a></li>
 					</ul>
