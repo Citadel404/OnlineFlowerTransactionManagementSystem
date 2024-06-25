@@ -16,7 +16,7 @@ import com.entity.view.ShangjiaView;
  * 
  * @author 
  * @email 
- * @date 2021-03-20 11:33:20
+ * @date 2023-12-20 11:33:20
  */
 public interface ShangjiaDao extends BaseMapper<ShangjiaEntity> {
 	

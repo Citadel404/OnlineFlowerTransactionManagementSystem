@@ -16,7 +16,7 @@ import java.io.Serializable;
  * 取自ModelAndView 的model名称
  * @author 
  * @email 
- * @date 2021-03-20 11:33:20
+ * @date 2023-12-20 11:33:20
  */
 public class YonghuModel  implements Serializable {
 	private static final long serialVersionUID = 1L;
